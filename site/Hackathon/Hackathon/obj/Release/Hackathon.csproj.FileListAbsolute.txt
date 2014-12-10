@@ -1,0 +1,6 @@
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\bin\Hackathon.dll.config
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\bin\Hackathon.dll
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\bin\Hackathon.pdb
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\bin\Microsoft.WebSockets.dll
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\obj\Release\Hackathon.dll
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\obj\Release\Hackathon.pdb

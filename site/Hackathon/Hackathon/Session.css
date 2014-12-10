@@ -1,0 +1,61 @@
+﻿
+body{scrollbar-face-color: #000000;
+scrollbar-shadow-color: #2D2C4D;
+scrollbar-highlight-color:#7D7E94;
+scrollbar-3dlight-color: #7D7E94;
+scrollbar-darkshadow-color: #2D2C4D;
+scrollbar-track-color: #7D7E94;
+scrollbar-arrow-color: #C1C1D1;
+background-color: #e9eaed;
+}
+#send {
+    background-color: rgba(1, 138, 254, 1);
+    color: #fff;
+    font-family: Calibri;
+    
+    padding-top: 4px;
+    padding-bottom: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+	position: relative;
+    width: 100px;
+	left: -105px;
+}
+
+#can {
+	position: relative;
+	top: -150px;
+    background-color: white;
+}
+
+#send:hover {
+    border: none;
+    background: rgba(1, 138, 254, 0.8);
+    
+}
+#palete {
+	position: relative;
+	left: 50px;
+}
+#message {
+    width: 300px;
+    position: relative;
+}
+
+#chat_table {
+	position: relative;
+	left: -95px;
+}
+
+#conversation {
+    border: solid;
+    border-width: 2px;
+    font-family: Calibri;
+    position: relative;
+    width: 400px;
+    height: 300px;
+    overflow-y: scroll;
+	word-wrap: break-word;
+    background-color: white;
+}

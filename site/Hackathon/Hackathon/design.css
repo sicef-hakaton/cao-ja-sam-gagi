@@ -1,0 +1,201 @@
+﻿html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+body {
+    text-align: center;
+    margin: auto;
+    font-family: Calibri;
+    background-color: #e9eaed;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.createButton {
+    width: 150px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    margin-top: 10px;
+    padding: 15px;
+    margin-left: 45px;
+    margin-bottom: 10px;
+}
+
+.createButton:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.headerButton {
+    padding-left:10px;
+    padding-right:10px;
+    margin-right: 10px;
+    padding-top:10px;
+    height:30px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.headerButton:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#header {
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 100%;
+    height: 40px;
+}
+
+#headerButtons {
+    font-size: 15px;
+    color: white;
+    width: 900px;
+    margin: auto;
+}
+
+#mainDiv {
+    margin: auto;
+    width: 900px;
+}
+
+.inputTable {
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+.lecture, .problem {
+    background-color: white;
+    padding: 20px 20px;
+    width: 500px;
+    border-bottom: 3px solid #C1C1C1;
+    border-right: 3px solid #F2F2F2;
+    margin: 10px;
+}
+
+.loginContainer {
+    width: 550px;
+    margin: auto;
+}
+
+#nextSessionLecture, #nextSessionProblem, #userData {
+    background-color: white;
+    padding: 20px 20px;
+    width: 220px;
+    margin: 10px;
+    margin-right: 50px;
+    border-bottom: 3px solid #C1C1C1;
+    border-right: 3px solid #F2F2F2;
+}
+
+#userData {
+    text-align: left;
+    width: 500px;
+    padding: 100px;
+}
+
+.leftDiv {
+    float: left;
+}
+
+.rightDiv {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.descriptionSide {
+    word-wrap: break-word;
+    text-align: left;
+    padding: 10px;
+    color: #333;
+}
+
+.description {
+    word-wrap: break-word;
+    width: 250px;
+    text-align: left;
+    padding: 10px;
+    color: #333;
+}
+
+.desciptionTitle {
+    color: #333;
+    width:100%;
+    border-bottom: 1px solid #C1C1C1;
+}
+
+.teacher, .time, .duration, .users, .date {
+    margin: 10px;
+    text-align: left;
+    color: #333;
+}
+
+.button, .disabledButton {
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.button {
+    background-color: rgba(1, 138, 254, 1);
+}
+
+.button:hover {
+    background-color: rgba(1, 138, 254, 0.8);
+}
+
+
+.disabledButton {
+    background-color: #ff5104;
+}
+
+.linkProfile {
+    color: Blue;
+}

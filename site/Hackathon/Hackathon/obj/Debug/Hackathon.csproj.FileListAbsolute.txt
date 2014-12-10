@@ -1,0 +1,14 @@
+C:\Users\Demjan\Documents\GitHub\Hakaton\Hackathon\Hackathon\bin\Hackathon.dll.config
+C:\Users\Demjan\Documents\GitHub\Hakaton\Hackathon\Hackathon\bin\Hackathon.dll
+C:\Users\Demjan\Documents\GitHub\Hakaton\Hackathon\Hackathon\bin\Hackathon.pdb
+C:\Users\Demjan\Documents\GitHub\Hakaton\Hackathon\Hackathon\obj\Debug\Hackathon.csprojResolveAssemblyReference.cache
+C:\Users\Demjan\Documents\GitHub\Hakaton\Hackathon\Hackathon\obj\Debug\Hackathon.dll
+C:\Users\Demjan\Documents\GitHub\Hakaton\Hackathon\Hackathon\obj\Debug\Hackathon.pdb
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\bin\Hackathon.dll.config
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\bin\Hackathon.dll
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\bin\Hackathon.pdb
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\bin\Microsoft.WebSockets.dll
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\obj\Debug\Hackathon.dll
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\obj\Debug\Hackathon.pdb
+C:\Users\Sasha\Desktop\SICEF hakaton\Hakaton\Hackathon\Hackathon\obj\Debug\Hackathon.csprojResolveAssemblyReference.cache
+C:\Users\Demjan\Documents\GitHub\Hakaton\Hackathon\Hackathon\bin\Microsoft.WebSockets.dll
